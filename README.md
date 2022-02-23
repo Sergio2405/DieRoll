@@ -1,4 +1,4 @@
-```
+```python
 SESSION_CONFIGS = [
 
     dict(
